@@ -24,7 +24,7 @@ its usefulness.
 
 
 ## Milestones  
-- [ ] PC demo  
+- [x] PC demo  
   - Creating a desktop program to move the cursor using a keyboard, as 
 well as displays the coordinates of a mouse click.  
 

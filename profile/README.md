@@ -28,11 +28,11 @@ its usefulness.
   - Creating a desktop program to move the cursor using a keyboard, as 
 well as displays the coordinates of a mouse click.  
 
-- [ ] Phone Demo  
+- [x] Phone Demo  
   - App that does nothing but display gyroscope data, as well touch screen 
 heat zones  
   
-- [ ] Phone-PC Communication  
+- [x] Phone-PC Communication  
   - Create functionality that allows for a constant stream of data between 
 a phone and PC  
 

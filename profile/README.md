@@ -1,4 +1,4 @@
-# PC Remote  
+# Columbaria
 
 ## Overview 
 We’re building an app that would allow the user to control their 
